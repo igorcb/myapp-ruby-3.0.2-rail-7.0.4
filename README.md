@@ -1,3 +1,3 @@
-### Ruby-3.0.2 Rails-7.0.4
+### Myapp ruby-3.0.2 rails-7.0.4
 
-### Deploy Elastic Beanstalk
+### Deploy AWS Elastic Beanstalk
