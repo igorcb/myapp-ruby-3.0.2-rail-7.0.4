@@ -16,6 +16,6 @@ test:
 
 production:
   <<: *default
-  database: my_app_rails_eb_production
-  username: my_app_rails_eb
+  database: rails_exemple
+  username: dbcobonline
   password: <%= ENV['DATABASE_PASSWORD'] %>
